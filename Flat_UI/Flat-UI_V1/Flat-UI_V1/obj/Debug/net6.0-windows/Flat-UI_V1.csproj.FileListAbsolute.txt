@@ -1,0 +1,7 @@
+F:\MyData\Documenten\VisualStudio_2022\Flat_UI\Flat-UI_V1\Flat-UI_V1\obj\Debug\net6.0-windows\Flat-UI_V1.csproj.AssemblyReference.cache
+F:\MyData\Documenten\VisualStudio_2022\Flat_UI\Flat-UI_V1\Flat-UI_V1\obj\Debug\net6.0-windows\Flat_UI_V1.FormMainMenu.resources
+F:\MyData\Documenten\VisualStudio_2022\Flat_UI\Flat-UI_V1\Flat-UI_V1\obj\Debug\net6.0-windows\Flat-UI_V1.csproj.GenerateResource.cache
+F:\MyData\Documenten\VisualStudio_2022\Flat_UI\Flat-UI_V1\Flat-UI_V1\obj\Debug\net6.0-windows\Flat-UI_V1.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyData\Documenten\VisualStudio_2022\Flat_UI\Flat-UI_V1\Flat-UI_V1\obj\Debug\net6.0-windows\Flat-UI_V1.AssemblyInfoInputs.cache
+F:\MyData\Documenten\VisualStudio_2022\Flat_UI\Flat-UI_V1\Flat-UI_V1\obj\Debug\net6.0-windows\Flat-UI_V1.AssemblyInfo.cs
+F:\MyData\Documenten\VisualStudio_2022\Flat_UI\Flat-UI_V1\Flat-UI_V1\obj\Debug\net6.0-windows\Flat-UI_V1.csproj.CoreCompileInputs.cache

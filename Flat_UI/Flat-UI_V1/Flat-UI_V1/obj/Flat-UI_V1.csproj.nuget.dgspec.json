@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\MyData\\Documenten\\VisualStudio_2022\\Flat_UI\\Flat-UI_V1\\Flat-UI_V1\\Flat-UI_V1.csproj": {}
+  },
+  "projects": {
+    "F:\\MyData\\Documenten\\VisualStudio_2022\\Flat_UI\\Flat-UI_V1\\Flat-UI_V1\\Flat-UI_V1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MyData\\Documenten\\VisualStudio_2022\\Flat_UI\\Flat-UI_V1\\Flat-UI_V1\\Flat-UI_V1.csproj",
+        "projectName": "Flat-UI_V1",
+        "projectPath": "F:\\MyData\\Documenten\\VisualStudio_2022\\Flat_UI\\Flat-UI_V1\\Flat-UI_V1\\Flat-UI_V1.csproj",
+        "packagesPath": "C:\\Users\\reneb\\.nuget\\packages\\",
+        "outputPath": "F:\\MyData\\Documenten\\VisualStudio_2022\\Flat_UI\\Flat-UI_V1\\Flat-UI_V1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\reneb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[5.15.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
